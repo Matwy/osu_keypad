@@ -15,10 +15,10 @@ Inoltre, il keypad supporta **VIA**, un software che permette di modificare faci
 ---
 
 ### PCB - Lato superiore
-<img src="images/pcbUp.jpg" width="300" alt="PCB lato superiore"/>
+<img src="images/pcbUp.png" width="300" alt="PCB lato superiore"/>
 
 ### PCB - Lato inferiore
-<img src="images/pcbDwn.jpg" width="300" alt="PCB lato inferiore"/>
+<img src="images/pcbDwn.png" width="300" alt="PCB lato inferiore"/>
 
 ---
 
